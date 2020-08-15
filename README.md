@@ -11,4 +11,14 @@ week3_exercise- preventing overfitting using larger dataset & pretrained word em
 
 week4- we use NLP techniques to generate text/poetry, text generation.
 
+NLP Course 4-Time series using Sequence models
+
+week1-Time series explanation and forecast using statistical methods such as moving average and time differencing techniques
+
+week2- windowing of data into batches for feeding time series as a sequence to neural net
+
+week3- Training using RNN
+
+Week4- Training on real data using LSTM and conv layers
+
 
