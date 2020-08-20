@@ -1,5 +1,7 @@
 # nlp1
-nlp tensorflow course 3 coursera
+nlp tensorflow course 3 & 4 coursera
+
+Course3:
 
 week1- Loading data from file gives labels and data then we tranform it to numbers using Tokenization and padding 
 
